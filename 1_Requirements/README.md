@@ -1,14 +1,14 @@
 INTRODUCTION :
 
-Distance measurement using HC-SR04 and ATMEGA328p. In this project i have measured distance in centimetres, with the help of HC-SR04 Ultrasound sensor, ATMEGA328p microcontroller, LCD Display via I2C bus.
+  Distance measurement using HC-SR04 and ATMEGA328p. In this project i have measured distance in centimetres, with the help of HC-SR04 Ultrasound sensor, ATMEGA328p microcontroller, LCD Display via I2C bus.
 
 PRINCIPLE:
 
-Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, the ultrasonic module sends out a 8cycle burst of 40khz which hits the object surface and returns back to raise an echo pulse. The pulse-width of this pulse is proportional to the distance between the module and Object.
+  1. Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, the ultrasonic module sends out a 8cycle burst of 40khz which hits the object surface and returns back to raise an echo pulse. The pulse-width of this pulse is proportional to the distance between the module and Object.
 
-Input capture module of the ATMEGA was used to capture the time between rising and falling edges of the echo pulse. The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS.
+  2. Input capture module of the ATMEGA was used to capture the time between rising and falling edges of the echo pulse. The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS.
 
-The Timer count (OCR2A) of Timer2 was chosen such that a trigger pulse signal of width 10uS is sent, and there is a pause (pin stays Digtal Low) for around 1.4mS.
+  3. The Timer count (OCR2A) of Timer2 was chosen such that a trigger pulse signal of width 10uS is sent, and there is a pause (pin stays Digtal Low) for around 1.4mS.
 
 IDENTIFY THE REQUIREMENTS:
 
@@ -33,21 +33,21 @@ SOFTWARE AND TOOLCHAIN:
 
 SWOT ANALYSIS:
 
-Strength :
+  Strength :
 
-This Project can be used to measure the distance to a wide range of objects regardless of shape.
+     1. This Project can be used to measure the distance to a wide range of objects regardless of shape.
 
-Weakness :
+  Weakness :
 
-This Project cannot be used in vaccum.
+     1. This Project cannot be used in vaccum.
 
-Opportunities :
+  Opportunities :
 
-Distance Measurement using atmega will reduce the time consumption and it measure the distance of small object even its is so far.
+     1. Distance Measurement using atmega will reduce the time consumption and it measure the distance of small object even its is so far.
 
-Threats :
+  Threats :
 
-Distance measurement using this project can be done only certain range based on the sensor.
+     1. Distance measurement using this project can be done only certain range based on the sensor.
 
 
 4W's and 1H:
