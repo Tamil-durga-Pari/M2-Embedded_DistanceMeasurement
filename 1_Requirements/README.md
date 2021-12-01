@@ -1,4 +1,5 @@
 Introduction :
+
 Distance measurement using HC-SR04 and ATMEGA328p. In this project i have measured distance in centimetres, with the help of HC-SR04 Ultrasound sensor, ATMEGA328p microcontroller, LCD Display via I2C bus.
 
 Principle:
@@ -21,6 +22,11 @@ SW and Toolchain:
 1. Software was written entirely in C,
 2. AVR-GCC compiler was used,
 3. Operating System - Ubuntu(Linux)
+
+![embedded diagram1](https://user-images.githubusercontent.com/94234015/144241445-e5993a74-cfc1-4923-a743-5e430f84649d.jpg)
+
+![embedded diagram2 (2)](https://user-images.githubusercontent.com/94234015/144241922-739fcd4b-5f17-44ea-84a3-a42e8c8f3095.jpg)
+
 
 4W and 1H:
   
