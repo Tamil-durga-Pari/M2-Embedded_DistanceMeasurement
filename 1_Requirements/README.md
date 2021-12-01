@@ -17,7 +17,7 @@ Hardware used:
 3. LCD Display with integrated PCf8574T chip enabling serial (I2C from uC) to parallel conversion.
 4. 2.2k Pullup resistors for I2C bus.
 
-SW and Toolchain:
+Software and Toolchain:
 
 1. Software was written entirely in C,
 2. AVR-GCC compiler was used,
