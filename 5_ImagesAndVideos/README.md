@@ -1,4 +1,4 @@
 WORKING VIDEO - DISTANCE MEASUREMENT:
 
-Uploading Distance Measurement using Ultrasonic Sensor and AVR Microcontroller ( 480 X 854 ).mp4…
+https://user-images.githubusercontent.com/94234015/144445167-2fa80360-2be2-4042-8603-38b039460978.mp4
 
