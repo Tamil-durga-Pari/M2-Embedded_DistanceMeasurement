@@ -97,4 +97,14 @@ Block Diagram 1 :
 Block Diagram 2 :
 
 ![image](https://user-images.githubusercontent.com/94234015/144191368-03b310a9-b254-47ee-8930-f34213f31d9a.png)
+
+Programming Atmega328 with Embedded C Programming:
+
+  Steps to build the code
+
+  Steps to run the simulation
+
+  Steps to verify the working of code
+
+  Schematic circuits
     
