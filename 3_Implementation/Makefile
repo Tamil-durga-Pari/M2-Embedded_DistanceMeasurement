@@ -1,4 +1,4 @@
-PROJ_NAME = Distance-Measurement
+PROJ_NAME = distance-measurement
 
 BUILD_DIR = Build
 
