@@ -1,2 +1,4 @@
-WORKING VIDEO-DISTANCE MEASUREMENT:
-https://youtu.be/0fVXQg1ALhg
+WORKING VIDEO- DISTANCE MEASUREMENT:
+
+Uploading Distance Measurement using Ultrasonic Sensor and AVR Microcontroller ( 480 X 854 ).mp4…
+
