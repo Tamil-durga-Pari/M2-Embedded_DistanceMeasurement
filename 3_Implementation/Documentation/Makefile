@@ -1,4 +1,4 @@
-DOXY_FILE = Distance-Measurement
+DOXY_FILE = distance-measurement
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
