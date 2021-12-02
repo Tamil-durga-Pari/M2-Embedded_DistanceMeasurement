@@ -85,4 +85,8 @@ Behavioral Diagram 1:
 Behavioral Diagram 2:
 
 ![image](https://user-images.githubusercontent.com/94234015/144190506-7fe53fc9-6dac-4e1a-85d0-02bb726da151.png)
+
+Structural Diagram :
+
+![image](https://user-images.githubusercontent.com/94234015/144190086-4ce7220a-468d-4f3a-a604-6a986bafd1c8.png)
     
